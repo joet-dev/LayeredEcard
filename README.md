@@ -12,5 +12,5 @@ The interesting thing about the program is that it generates the models from "mo
 The model data file contains:
  -the start location of the environment (the first cube 'layer' that is drawn for the model to stand on)
  -the size of the environment
- -the color of the environment
- -the data (color and location) that produces the model
+ -the colour of the environment
+ -the data (colour and location) that produces the model
