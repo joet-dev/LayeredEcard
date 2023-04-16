@@ -1,6 +1,6 @@
 # LayeredEcard 🖌
 
-**`Completed: 2020`**
+**`Created 2020`**
 
 ## Description
 This is a Python program that draws 3D-like images using the Turtle library. 
